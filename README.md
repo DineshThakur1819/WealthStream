@@ -105,7 +105,7 @@ WealthStream/
 ```bash
 # Create new Android Studio project
 # Or clone from repository
-git clone https://github.com/yourusername/wealthstream.git
+git clone https://github.com/DineshThakur1819/WealthStream.git
 cd wealthstream
 ```
 
